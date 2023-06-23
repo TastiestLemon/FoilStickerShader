@@ -2,7 +2,7 @@
 
 ![](https://github.com/TastiestLemon/FoilStickerShader/blob/main/RocketFairyStickerGif.gif)
 
-A simple foil sticker effect made for a game I'm working on.
+A simple foil sticker Unity shader made for a game I'm working on.
 Anyone's welcome to use it because gods I would do anything to see foil stickers in more games >:3
 
 NOTE:
