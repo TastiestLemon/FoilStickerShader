@@ -19,3 +19,5 @@ half4 stickerColor(float2 texcoord, fixed4 col, float frequency, int cells, floa
   col.rgb *= (1.0 - col.a) + (col.a * max(lightMultiplier, cellLightMultiplier / backdropDimness));
   return col;
 }
+
+// Clearly not the full file, but just call this function to apply the effect to any color in the fragment shader
