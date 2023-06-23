@@ -1,0 +1,10 @@
+# FoilStickerShader
+
+![](https://github.com/TastiestLemon/FoilStickerShader/blob/main/RocketFairyStickerGif.gif)
+
+A simple foil sticker effect made for a game I'm working on.
+Anyone's welcome to use it because gods I would do anything to see foil stickers in more games >:3
+
+NOTE:
+The "offset" variable is tied to time, which worked better for my use case, though if you want a more realistic shimmer,
+it may be worth tying offset to the angle at which you're looking at the sticker- as well as the distance you are from it
